@@ -5,7 +5,7 @@ int main(void)
     char c; /*定义字符变量*/
     float price,discount,output; 
     a=b=price=discount=output=0;
-	scanf("%d%d %c",&a,&b,&c);
+	scanf("%d %d %c",&a,&b,&c);
     switch(b){
         
         case 90:
